@@ -13,7 +13,7 @@ const runCommand = (command) => {
     }
 };
 const addCommitPush = () => {
-    runCommand("cd ..");
+    runCommand("cd ../..");
     runCommand("git add .");
     runCommand('git commit -m "test autom script"');
     runCommand("git push");
