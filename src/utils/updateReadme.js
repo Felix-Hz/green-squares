@@ -61,15 +61,15 @@ function updateReadme() {
                 fs.writeFileSync(readmePath, updatedContent, "utf-8");
                 state_json_1.default.day += 1;
                 fs.writeFileSync("./data/state.json", JSON.stringify(state_json_1.default));
-                // Trigger the function that realizes the commit in this part of the loop.
+                (0, commitToRepo_1.addCommitPush)();
             }
         }
         catch (error) {
             console.error("An error occurred:", error);
         }
         finally {
-            setTimeout(updateReadme, 10000);
-            (0, commitToRepo_1.addCommitPush)();
+            // Execute the function every 24 hours.24 * 60 * 60 * 1000
+            setTimeout(updateReadme, 5000);
         }
     });
 }
