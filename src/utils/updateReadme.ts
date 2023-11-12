@@ -32,8 +32,8 @@ async function updateReadme() {
   } catch (error) {
     console.error("An error occurred:", error);
   } finally {
-    // Execute the function every 24 hours.24 * 60 * 60 * 1000
-    setTimeout(updateReadme, 5000);
+    // Execute the function every 24 hours.
+    setTimeout(updateReadme, 24 * 60 * 60 * 1000);
   }
 }
 
