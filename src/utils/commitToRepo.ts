@@ -1,8 +1,6 @@
 import { execSync } from "child_process";
 import state from "../data/state.json";
 
-const currentDay = state.day;
-
 // Execute a shell command.
 const runCommand = (command: string) => {
   try {
@@ -14,6 +12,7 @@ const runCommand = (command: string) => {
 };
 
 const addCommitPush = () => {
+  const currentDay = state.day;
   runCommand(
     `cd .. && git add . && git commit -m 'add ${currentDay}: fact of the day' && git push`
   );
