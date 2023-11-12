@@ -40,18 +40,15 @@ const fs = __importStar(require("fs"));
 const api_1 = require("./api");
 const state_json_1 = __importDefault(require("../data/state.json"));
 const textPerType_1 = require("./textPerType");
-const currentDay = state_json_1.default.day;
 function updateReadme() {
     return __awaiter(this, void 0, void 0, function* () {
-        let updatedContent;
+        const currentDay = state_json_1.default.day;
         const readmePath = "../README.md";
-        const randomNumberFact = yield (0, api_1.getRandomFact)();
-        let type = randomNumberFact === null || randomNumberFact === void 0 ? void 0 : randomNumberFact.type;
-        fs.readFile(readmePath, "utf-8", (err, data) => __awaiter(this, void 0, void 0, function* () {
-            if (err) {
-                console.error("Error reading the file:", err);
-                return;
-            }
+        try {
+            let updatedContent;
+            const randomNumberFact = yield (0, api_1.getRandomFact)();
+            let type = randomNumberFact === null || randomNumberFact === void 0 ? void 0 : randomNumberFact.type;
+            const data = fs.readFileSync(readmePath, "utf-8");
             if (typeof type === "string" && randomNumberFact) {
                 var textForReadme = (0, textPerType_1.textPerFactType)(type, randomNumberFact);
                 if (!currentDay) {
@@ -60,21 +57,18 @@ function updateReadme() {
                 else {
                     updatedContent = `${data}\n\n### Fact of Day ${currentDay}\n${textForReadme}`;
                 }
-                fs.writeFile(readmePath, updatedContent, "utf-8", (err) => {
-                    if (err) {
-                        console.error("Error writing to the file:", err);
-                        return;
-                    }
-                    else {
-                        state_json_1.default.day += 1;
-                        fs.writeFileSync("./data/state.json", JSON.stringify(state_json_1.default));
-                    }
-                });
+                fs.writeFileSync(readmePath, updatedContent, "utf-8");
+                state_json_1.default.day += 1;
+                fs.writeFileSync("./data/state.json", JSON.stringify(state_json_1.default));
+                // Trigger the function that realizes the commit in this part of the loop.
             }
-            else {
-                console.error("Nope, nopity nope.");
-            }
-        }));
+        }
+        catch (error) {
+            console.error("An error occurred:", error);
+        }
+        finally {
+            setTimeout(updateReadme, 10000);
+        }
     });
 }
 exports.updateReadme = updateReadme;

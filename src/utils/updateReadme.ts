@@ -3,19 +3,15 @@ import { getRandomFact } from "./api";
 import state from "../data/state.json";
 import { textPerFactType } from "./textPerType";
 
-const currentDay = state.day;
-
 async function updateReadme() {
-  let updatedContent: string;
+  const currentDay = state.day;
   const readmePath = "../README.md";
-  const randomNumberFact = await getRandomFact();
-  let type = randomNumberFact?.type;
+  try {
+    let updatedContent: string;
+    const randomNumberFact = await getRandomFact();
+    let type = randomNumberFact?.type;
 
-  fs.readFile(readmePath, "utf-8", async (err, data) => {
-    if (err) {
-      console.error("Error reading the file:", err);
-      return;
-    }
+    const data = fs.readFileSync(readmePath, "utf-8");
 
     if (typeof type === "string" && randomNumberFact) {
       var textForReadme = textPerFactType(type, randomNumberFact);
@@ -24,19 +20,19 @@ async function updateReadme() {
       } else {
         updatedContent = `${data}\n\n### Fact of Day ${currentDay}\n${textForReadme}`;
       }
-      fs.writeFile(readmePath, updatedContent, "utf-8", (err) => {
-        if (err) {
-          console.error("Error writing to the file:", err);
-          return;
-        } else {
-          state.day += 1;
-          fs.writeFileSync("./data/state.json", JSON.stringify(state));
-        }
-      });
-    } else {
-      console.error("Nope, nopity nope.");
+
+      fs.writeFileSync(readmePath, updatedContent, "utf-8");
+
+      state.day += 1;
+      fs.writeFileSync("./data/state.json", JSON.stringify(state));
+
+      // Trigger the function that realizes the commit in this part of the loop.
     }
-  });
+  } catch (error) {
+    console.error("An error occurred:", error);
+  } finally {
+    setTimeout(updateReadme, 10000);
+  }
 }
 
 export { updateReadme };
