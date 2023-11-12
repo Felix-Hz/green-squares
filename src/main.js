@@ -1,17 +1,24 @@
 "use strict";
 /*
-________         .__.__                 ____.       __                       _____
-\______ \ _____  |__|  | ___.__.       |    | ____ |  | __ ____   ______   _/ _______________
- |    |  \\__  \ |  |  |<   |  |       |    |/  _ \|  |/ _/ __ \ /  ___/   \   __/  _ \_  __ \
- |    `   \/ __ \|  |  |_\___  |   /\__|    (  <_> |    <\  ___/ \___ \     |  |(  <_> |  | \/
-/_______  (____  |__|____/ ____|   \________|\____/|__|_ \\___  /____  >    |__| \____/|__|
-        \/     \/        \/                             \/    \/     \/
-                    ________.__  __    ___ ___      ___.          _____          __  .__      .__  __
-  _____ ___.__.    /  _____/|___/  |_ /   |   \ __ _\_ |__       /  _  \   _____/  |_|_____  _|___/  |_ ___.__.
- /     <   |  |   /   \  ___|  \   __/    ~    |  |  | __ \     /  /_\  \_/ ___\   __|  \  \/ |  \   __<   |  |
-|  Y Y  \___  |   \    \_\  |  ||  | \    Y    |  |  | \_\ \   /    |    \  \___|  | |  |\   /|  ||  |  \___  |
-|__|_|  / ____|    \______  |__||__|  \___|_  /|____/|___  /   \____|__  /\___  |__| |__| \_/ |__||__|  / ____|
-      \/\/                \/                \/           \/            \/     \/                        \/
+      ##### ##                    ###                          ##### ##
+   /#####  /##                #    ###                      ######  /### /
+ //    /  / ###              ###    ##                     /#   /  /  ##/                     #
+/     /  /   ###              #     ##                    /    /  /    #                     ##
+     /  /     ###                   ##                        /  /                           ##
+    ## ##      ##    /###   ###     ##  ##   ####            ## ##       /###     /###     ######## /###
+    ## ##      ##   / ###  / ###    ##   ##    ###  /        ## ##      / ###  / / ###  / ######## / #### /
+    ## ##      ##  /   ###/   ##    ##   ##     ###/         ## ###### /   ###/ /   ###/     ##   ##  ###/
+    ## ##      ## ##    ##    ##    ##   ##      ##          ## ##### ##    ## ##            ##  ####
+    ## ##      ## ##    ##    ##    ##   ##      ##          ## ##    ##    ## ##            ##    ###
+    #  ##      ## ##    ##    ##    ##   ##      ##          #  ##    ##    ## ##            ##      ###
+       /       /  ##    ##    ##    ##   ##      ##             #     ##    ## ##            ##        ###
+  /###/       /   ##    /#    ##    ##   ##      ##         /####     ##    /# ###     /     ##   /###  ##
+ /   ########/     ####/ ##   ### / ### / #########        /  #####    ####/ ## ######/      ##  / #### /
+/       ####        ###   ##   ##/   ##/    #### ###      /    ###      ###   ## #####        ##    ###/
+#                                                 ###     #
+ ##                                        #####   ###     ##
+                                         /#######  /#
+                                        /      ###/
 */
 var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;
@@ -55,34 +62,61 @@ const api_1 = require("./utils/api");
 // import { Octokit } from "octokit";
 // import { schedule } from "node-cron";
 const currentDay = state_json_1.default.day;
+function textPerFactType(type, randomNumberFact) {
+    let textForReadme = "";
+    if (type === "math") {
+        const text = `The number ${randomNumberFact.number} is ${randomNumberFact.text}.`;
+        textForReadme = text;
+    }
+    else if (type === "year") {
+        if (randomNumberFact.date) {
+            const text = `In ${randomNumberFact.date} of ${randomNumberFact.number}, ${randomNumberFact.text}.`;
+            textForReadme = text;
+        }
+        else {
+            const text = `In year ${randomNumberFact.number}, ${randomNumberFact.text}.`;
+            textForReadme = text;
+        }
+    }
+    else if (type === "trivia") {
+        const text = `The number ${randomNumberFact.number} is ${randomNumberFact.text}.`;
+        textForReadme = text;
+    }
+    return textForReadme;
+}
 function updateReadme() {
     return __awaiter(this, void 0, void 0, function* () {
+        let updatedContent;
         const readmePath = "../README.md";
+        const randomNumberFact = yield (0, api_1.getRandomFact)();
+        let type = randomNumberFact === null || randomNumberFact === void 0 ? void 0 : randomNumberFact.type;
         fs.readFile(readmePath, "utf-8", (err, data) => __awaiter(this, void 0, void 0, function* () {
             if (err) {
                 console.error("Error reading the file:", err);
                 return;
             }
-            let updatedContent;
-            const randomNumberFact = JSON.stringify(yield (0, api_1.getRandomFact)());
-            // console.log(randomNumberFact);
-            if (!currentDay) {
-                updatedContent = `${data}\n\n### Creation Day\n${randomNumberFact}`;
-            }
-            else {
-                updatedContent = `${data}\n\n### Fact of Day ${currentDay}\n${randomNumberFact}`;
-            }
-            fs.writeFile(readmePath, updatedContent, "utf-8", (err) => {
-                if (err) {
-                    console.error("Error writing to the file:", err);
-                    return;
+            if (typeof type === "string" && randomNumberFact) {
+                var textForReadme = textPerFactType(type, randomNumberFact);
+                if (!currentDay) {
+                    updatedContent = `${data}\n\n### Creation Day\n${textForReadme}`;
                 }
                 else {
-                    console.log("README updated with a new fact, and counter as well.");
-                    state_json_1.default.day += 1;
-                    fs.writeFileSync("./data/state.json", JSON.stringify(state_json_1.default));
+                    updatedContent = `${data}\n\n### Fact of Day ${currentDay}\n${textForReadme}`;
                 }
-            });
+                fs.writeFile(readmePath, updatedContent, "utf-8", (err) => {
+                    if (err) {
+                        console.error("Error writing to the file:", err);
+                        return;
+                    }
+                    else {
+                        state_json_1.default.day += 1;
+                        fs.writeFileSync("./data/state.json", JSON.stringify(state_json_1.default));
+                    }
+                });
+            }
+            else {
+                console.error("Nope, nopity nope.");
+            }
         }));
     });
 }
