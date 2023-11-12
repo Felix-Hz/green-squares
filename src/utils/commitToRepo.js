@@ -13,9 +13,6 @@ const runCommand = (command) => {
     }
 };
 const addCommitPush = () => {
-    runCommand("cd ../../..");
-    runCommand("git add .");
-    runCommand('git commit -m "test autom script"');
-    runCommand("git push");
+    runCommand("cd .. && git add . && git commit -m 'test autom script' && git push");
 };
 exports.addCommitPush = addCommitPush;
