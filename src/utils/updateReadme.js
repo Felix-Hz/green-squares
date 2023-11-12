@@ -39,6 +39,7 @@ exports.updateReadme = void 0;
 const fs = __importStar(require("fs"));
 const api_1 = require("./api");
 const state_json_1 = __importDefault(require("../data/state.json"));
+const commitToRepo_1 = require("./commitToRepo");
 const textPerType_1 = require("./textPerType");
 function updateReadme() {
     return __awaiter(this, void 0, void 0, function* () {
@@ -68,6 +69,7 @@ function updateReadme() {
         }
         finally {
             setTimeout(updateReadme, 10000);
+            (0, commitToRepo_1.addCommitPush)();
         }
     });
 }

@@ -1,6 +1,7 @@
 import * as fs from "fs";
 import { getRandomFact } from "./api";
 import state from "../data/state.json";
+import { addCommitPush } from "./commitToRepo";
 import { textPerFactType } from "./textPerType";
 
 async function updateReadme() {
@@ -32,6 +33,7 @@ async function updateReadme() {
     console.error("An error occurred:", error);
   } finally {
     setTimeout(updateReadme, 10000);
+    addCommitPush();
   }
 }
 
