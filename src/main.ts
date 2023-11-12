@@ -1,24 +1,33 @@
 /*
-________         .__.__                 ____.       __                       _____                             
-\______ \ _____  |__|  | ___.__.       |    | ____ |  | __ ____   ______   _/ _______________                  
- |    |  \\__  \ |  |  |<   |  |       |    |/  _ \|  |/ _/ __ \ /  ___/   \   __/  _ \_  __ \                 
- |    `   \/ __ \|  |  |_\___  |   /\__|    (  <_> |    <\  ___/ \___ \     |  |(  <_> |  | \/                 
-/_______  (____  |__|____/ ____|   \________|\____/|__|_ \\___  /____  >    |__| \____/|__|                    
-        \/     \/        \/                             \/    \/     \/                                        
-                    ________.__  __    ___ ___      ___.          _____          __  .__      .__  __          
-  _____ ___.__.    /  _____/|___/  |_ /   |   \ __ _\_ |__       /  _  \   _____/  |_|_____  _|___/  |_ ___.__.
- /     <   |  |   /   \  ___|  \   __/    ~    |  |  | __ \     /  /_\  \_/ ___\   __|  \  \/ |  \   __<   |  |
-|  Y Y  \___  |   \    \_\  |  ||  | \    Y    |  |  | \_\ \   /    |    \  \___|  | |  |\   /|  ||  |  \___  |
-|__|_|  / ____|    \______  |__||__|  \___|_  /|____/|___  /   \____|__  /\___  |__| |__| \_/ |__||__|  / ____|
-      \/\/                \/                \/           \/            \/     \/                        \/     
+      ##### ##                    ###                          ##### ##                                    
+   /#####  /##                #    ###                      ######  /### /                                 
+ //    /  / ###              ###    ##                     /#   /  /  ##/                     #            
+/     /  /   ###              #     ##                    /    /  /    #                     ##            
+     /  /     ###                   ##                        /  /                           ##            
+    ## ##      ##    /###   ###     ##  ##   ####            ## ##       /###     /###     ######## /###   
+    ## ##      ##   / ###  / ###    ##   ##    ###  /        ## ##      / ###  / / ###  / ######## / #### /
+    ## ##      ##  /   ###/   ##    ##   ##     ###/         ## ###### /   ###/ /   ###/     ##   ##  ###/ 
+    ## ##      ## ##    ##    ##    ##   ##      ##          ## ##### ##    ## ##            ##  ####      
+    ## ##      ## ##    ##    ##    ##   ##      ##          ## ##    ##    ## ##            ##    ###     
+    #  ##      ## ##    ##    ##    ##   ##      ##          #  ##    ##    ## ##            ##      ###   
+       /       /  ##    ##    ##    ##   ##      ##             #     ##    ## ##            ##        ### 
+  /###/       /   ##    /#    ##    ##   ##      ##         /####     ##    /# ###     /     ##   /###  ## 
+ /   ########/     ####/ ##   ### / ### / #########        /  #####    ####/ ## ######/      ##  / #### /  
+/       ####        ###   ##   ##/   ##/    #### ###      /    ###      ###   ## #####        ##    ###/   
+#                                                 ###     #                                                
+ ##                                        #####   ###     ##                                              
+                                         /#######  /#                                                      
+                                        /      ###/                                                        
 */
 
 import * as fs from "fs";
+import state from "./data/state.json";
 import { getRandomFact } from "./utils/api";
-import { Octokit } from "octokit";
-import { schedule } from "node-cron";
 
-let dayNumber: number = 0;
+// import { Octokit } from "octokit";
+// import { schedule } from "node-cron";
+
+const currentDay = state.day;
 
 async function updateReadme() {
   const readmePath = "../README.md";
@@ -31,12 +40,12 @@ async function updateReadme() {
 
     let updatedContent: string;
     const randomNumberFact = JSON.stringify(await getRandomFact());
-    console.log(randomNumberFact);
+    // console.log(randomNumberFact);
 
-    if (!dayNumber) {
+    if (!currentDay) {
       updatedContent = `${data}\n\n### Creation Day\n${randomNumberFact}`;
     } else {
-      updatedContent = `${data}\n\n### Joke of Day ${dayNumber}\n${randomNumberFact}`;
+      updatedContent = `${data}\n\n### Fact of Day ${currentDay}\n${randomNumberFact}`;
     }
 
     fs.writeFile(readmePath, updatedContent, "utf-8", (err) => {
@@ -45,14 +54,12 @@ async function updateReadme() {
         return;
       } else {
         console.log("README updated with a new fact, and counter as well.");
-        console.log(dayNumber);
+        state.day += 1;
+        fs.writeFileSync("./data/state.json", JSON.stringify(state));
       }
     });
   });
 }
-
-// Mf counter not working.
-dayNumber += 1;
 
 updateReadme();
 

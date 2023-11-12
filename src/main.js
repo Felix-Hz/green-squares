@@ -1,4 +1,18 @@
 "use strict";
+/*
+________         .__.__                 ____.       __                       _____
+\______ \ _____  |__|  | ___.__.       |    | ____ |  | __ ____   ______   _/ _______________
+ |    |  \\__  \ |  |  |<   |  |       |    |/  _ \|  |/ _/ __ \ /  ___/   \   __/  _ \_  __ \
+ |    `   \/ __ \|  |  |_\___  |   /\__|    (  <_> |    <\  ___/ \___ \     |  |(  <_> |  | \/
+/_______  (____  |__|____/ ____|   \________|\____/|__|_ \\___  /____  >    |__| \____/|__|
+        \/     \/        \/                             \/    \/     \/
+                    ________.__  __    ___ ___      ___.          _____          __  .__      .__  __
+  _____ ___.__.    /  _____/|___/  |_ /   |   \ __ _\_ |__       /  _  \   _____/  |_|_____  _|___/  |_ ___.__.
+ /     <   |  |   /   \  ___|  \   __/    ~    |  |  | __ \     /  /_\  \_/ ___\   __|  \  \/ |  \   __<   |  |
+|  Y Y  \___  |   \    \_\  |  ||  | \    Y    |  |  | \_\ \   /    |    \  \___|  | |  |\   /|  ||  |  \___  |
+|__|_|  / ____|    \______  |__||__|  \___|_  /|____/|___  /   \____|__  /\___  |__| |__| \_/ |__||__|  / ____|
+      \/\/                \/                \/           \/            \/     \/                        \/
+*/
 var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;
     var desc = Object.getOwnPropertyDescriptor(m, k);
@@ -31,10 +45,16 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs = __importStar(require("fs"));
+const state_json_1 = __importDefault(require("./data/state.json"));
 const api_1 = require("./utils/api");
-let dayNumber = 0;
+// import { Octokit } from "octokit";
+// import { schedule } from "node-cron";
+const currentDay = state_json_1.default.day;
 function updateReadme() {
     return __awaiter(this, void 0, void 0, function* () {
         const readmePath = "../README.md";
@@ -45,12 +65,12 @@ function updateReadme() {
             }
             let updatedContent;
             const randomNumberFact = JSON.stringify(yield (0, api_1.getRandomFact)());
-            console.log(randomNumberFact);
-            if (!dayNumber) {
+            // console.log(randomNumberFact);
+            if (!currentDay) {
                 updatedContent = `${data}\n\n### Creation Day\n${randomNumberFact}`;
             }
             else {
-                updatedContent = `${data}\n\n### Joke of Day ${dayNumber}\n${randomNumberFact}`;
+                updatedContent = `${data}\n\n### Fact of Day ${currentDay}\n${randomNumberFact}`;
             }
             fs.writeFile(readmePath, updatedContent, "utf-8", (err) => {
                 if (err) {
@@ -59,13 +79,13 @@ function updateReadme() {
                 }
                 else {
                     console.log("README updated with a new fact, and counter as well.");
-                    console.log(dayNumber);
+                    state_json_1.default.day += 1;
+                    fs.writeFileSync("./data/state.json", JSON.stringify(state_json_1.default));
                 }
             });
         }));
     });
 }
-dayNumber += 1;
 updateReadme();
 // // Schedule the job to run every 24 hours
 // schedule("0 0 */1 * *", () => {
