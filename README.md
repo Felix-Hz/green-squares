@@ -4,3 +4,6 @@ To be honest, I just think that a lot of GitHub activity in my profile looks coo
 
 ### Creation Day
 The number 42 is the number of laws of cricket.
+
+### Fact of Day 1
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
