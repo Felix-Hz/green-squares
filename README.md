@@ -16,3 +16,6 @@ The number 42 is the result given by the web search engines Google, Wolfram Alph
 
 ### Fact of Day 4
 In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling all Jews from Spain unless they convert to Roman Catholicism.
+
+### Fact of Day 5
+The number 42 is the number of laws of cricket.
