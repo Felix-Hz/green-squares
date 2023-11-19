@@ -19,3 +19,6 @@ In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling 
 
 ### Fact of Day 5
 The number 42 is the number of laws of cricket.
+
+### Fact of Day 6
+The number 42 is the number of laws of cricket.
