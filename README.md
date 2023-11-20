@@ -22,3 +22,6 @@ The number 42 is the number of laws of cricket.
 
 ### Fact of Day 6
 The number 42 is the number of laws of cricket.
+
+### Fact of Day 7
+The number 42 is the number of US gallons in a barrel of oil.
