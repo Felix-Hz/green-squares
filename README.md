@@ -28,3 +28,6 @@ The number 42 is the number of US gallons in a barrel of oil.
 
 ### Fact of Day 8
 In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling all Jews from Spain unless they convert to Roman Catholicism.
+
+### Fact of Day 9
+The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
