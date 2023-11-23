@@ -31,3 +31,6 @@ In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling 
 
 ### Fact of Day 9
 The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
+
+### Fact of Day 10
+The number 42 is the number of kilometers in a marathon.
