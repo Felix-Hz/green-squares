@@ -40,3 +40,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 12
 In October 28 of 1492, Christopher Columbus lands in Cuba.
+
+### Fact of Day 13
+In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first voyage across the Atlantic Ocean, intending to reach Asia.
