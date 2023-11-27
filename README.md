@@ -43,3 +43,6 @@ In October 28 of 1492, Christopher Columbus lands in Cuba.
 
 ### Fact of Day 13
 In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first voyage across the Atlantic Ocean, intending to reach Asia.
+
+### Fact of Day 14
+In December 5 of 1492, Christopher Columbus becomes the first known European to set foot on the island of Hispaniola.
