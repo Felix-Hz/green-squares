@@ -46,3 +46,6 @@ In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first vo
 
 ### Fact of Day 14
 In December 5 of 1492, Christopher Columbus becomes the first known European to set foot on the island of Hispaniola.
+
+### Fact of Day 15
+In January 23 of 1492, the Pentateuch is first printed.
