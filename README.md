@@ -49,3 +49,6 @@ In December 5 of 1492, Christopher Columbus becomes the first known European to 
 
 ### Fact of Day 15
 In January 23 of 1492, the Pentateuch is first printed.
+
+### Fact of Day 16
+In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first voyage across the Atlantic Ocean, intending to reach Asia.
