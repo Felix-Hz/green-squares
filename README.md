@@ -79,3 +79,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 25
 The number 42 is the result given by the web search engines Google, Wolfram Alpha and Bing when the query "the answer to life the universe and everything" is entered as a search.
+
+### Fact of Day 26
+The number 42 is the angle in degrees for which a rainbow appears or the critical angle.
