@@ -91,3 +91,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 29
 In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first voyage across the Atlantic Ocean, intending to reach Asia.
+
+### Fact of Day 30
+In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
