@@ -94,3 +94,6 @@ In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first vo
 
 ### Fact of Day 30
 In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
+
+### Fact of Day 31
+The number 42 is the number of US gallons in a barrel of oil.
