@@ -97,3 +97,6 @@ In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
 
 ### Fact of Day 31
 The number 42 is the number of US gallons in a barrel of oil.
+
+### Fact of Day 32
+In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
