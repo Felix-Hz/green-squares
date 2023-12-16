@@ -100,3 +100,6 @@ The number 42 is the number of US gallons in a barrel of oil.
 
 ### Fact of Day 32
 In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
+
+### Fact of Day 33
+In October 28 of 1492, Christopher Columbus lands in Cuba.
