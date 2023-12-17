@@ -103,3 +103,6 @@ In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
 
 ### Fact of Day 33
 In October 28 of 1492, Christopher Columbus lands in Cuba.
+
+### Fact of Day 34
+The number 42 is the number of gallons that one barrel of petroleum holds.
