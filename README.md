@@ -118,3 +118,6 @@ In November 7 of 1492, the Ensisheim meteorite, a 127-kg meteorite, lands in a w
 
 ### Fact of Day 38
 In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first voyage across the Atlantic Ocean, intending to reach Asia.
+
+### Fact of Day 39
+The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
