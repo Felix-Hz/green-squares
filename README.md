@@ -130,3 +130,6 @@ The number 42 is the answer to the Ultimate Question of Life, the Universe, and 
 
 ### Fact of Day 42
 In December 5 of 1492, Christopher Columbus becomes the first known European to set foot on the island of Hispaniola.
+
+### Fact of Day 43
+The number 42 is the number of kilometers in a marathon.
