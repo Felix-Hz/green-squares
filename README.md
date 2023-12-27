@@ -133,3 +133,6 @@ In December 5 of 1492, Christopher Columbus becomes the first known European to 
 
 ### Fact of Day 43
 The number 42 is the number of kilometers in a marathon.
+
+### Fact of Day 44
+In year 1492, the first arboretum to be designed and planted is the Arboretum Trsteno, near Dubrovnik in Croatia.
