@@ -142,3 +142,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 46
 The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
+
+### Fact of Day 47
+In October 12 of 1492, Christopher Columbus' expedition makes landfall in the Caribbean and lands on Guanahani, but he believes he has reached the East Indies.
