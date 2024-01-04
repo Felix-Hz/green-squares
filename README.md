@@ -157,3 +157,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 51
 The number 42 is the result given by the web search engines Google, Wolfram Alpha and Bing when the query "the answer to life the universe and everything" is entered as a search.
+
+### Fact of Day 52
+The number 42 is the number of US gallons in a barrel of oil.
