@@ -160,3 +160,6 @@ The number 42 is the result given by the web search engines Google, Wolfram Alph
 
 ### Fact of Day 52
 The number 42 is the number of US gallons in a barrel of oil.
+
+### Fact of Day 53
+The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
