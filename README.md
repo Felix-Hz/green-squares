@@ -163,3 +163,6 @@ The number 42 is the number of US gallons in a barrel of oil.
 
 ### Fact of Day 53
 The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
+
+### Fact of Day 54
+The number 42 is the number of laws of cricket.
