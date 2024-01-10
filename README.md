@@ -175,3 +175,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 57
 The number 42 is the angle in degrees for which a rainbow appears or the critical angle.
+
+### Fact of Day 58
+In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
