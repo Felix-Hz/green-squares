@@ -187,3 +187,6 @@ In October 12 of 1492, Christopher Columbus' expedition makes landfall in the Ca
 
 ### Fact of Day 61
 The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
+
+### Fact of Day 62
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
