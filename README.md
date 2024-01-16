@@ -193,3 +193,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 63
 In October 28 of 1492, Christopher Columbus lands in Cuba.
+
+### Fact of Day 64
+In year 1492, Martin Behaim constructs the first surviving globe of Earth, the Erdapfel.
