@@ -196,3 +196,6 @@ In October 28 of 1492, Christopher Columbus lands in Cuba.
 
 ### Fact of Day 64
 In year 1492, Martin Behaim constructs the first surviving globe of Earth, the Erdapfel.
+
+### Fact of Day 65
+In October 12 of 1492, Christopher Columbus' expedition makes landfall in the Caribbean and lands on Guanahani, but he believes he has reached the East Indies.
