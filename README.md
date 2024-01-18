@@ -199,3 +199,6 @@ In year 1492, Martin Behaim constructs the first surviving globe of Earth, the E
 
 ### Fact of Day 65
 In October 12 of 1492, Christopher Columbus' expedition makes landfall in the Caribbean and lands on Guanahani, but he believes he has reached the East Indies.
+
+### Fact of Day 66
+The number 42 is the number of kilometers in a marathon.
