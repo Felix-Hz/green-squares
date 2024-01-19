@@ -202,3 +202,6 @@ In October 12 of 1492, Christopher Columbus' expedition makes landfall in the Ca
 
 ### Fact of Day 66
 The number 42 is the number of kilometers in a marathon.
+
+### Fact of Day 67
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
