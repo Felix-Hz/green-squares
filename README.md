@@ -211,3 +211,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 69
 The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
+
+### Fact of Day 70
+In year 1492, the first arboretum to be designed and planted is the Arboretum Trsteno, near Dubrovnik in Croatia.
