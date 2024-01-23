@@ -214,3 +214,6 @@ The number 42 is the number of museums in Amsterdam (Netherlands has the highest
 
 ### Fact of Day 70
 In year 1492, the first arboretum to be designed and planted is the Arboretum Trsteno, near Dubrovnik in Croatia.
+
+### Fact of Day 71
+In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling all Jews from Spain unless they convert to Roman Catholicism.
