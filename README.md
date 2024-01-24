@@ -217,3 +217,6 @@ In year 1492, the first arboretum to be designed and planted is the Arboretum Tr
 
 ### Fact of Day 71
 In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling all Jews from Spain unless they convert to Roman Catholicism.
+
+### Fact of Day 72
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
