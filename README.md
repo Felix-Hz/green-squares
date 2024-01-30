@@ -235,3 +235,6 @@ The number 42 is the number of spots (or pips, circular patches or pits) on a pa
 
 ### Fact of Day 77
 In October 12 of 1492, Christopher Columbus' expedition makes landfall in the Caribbean and lands on Guanahani, but he believes he has reached the East Indies.
+
+### Fact of Day 78
+The number 42 is the sum of the codes of the letters in the words "BIG BANG" using the encoding A=1, B=2, C=3, etc.
