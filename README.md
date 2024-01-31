@@ -238,3 +238,6 @@ In October 12 of 1492, Christopher Columbus' expedition makes landfall in the Ca
 
 ### Fact of Day 78
 The number 42 is the sum of the codes of the letters in the words "BIG BANG" using the encoding A=1, B=2, C=3, etc.
+
+### Fact of Day 79
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
