@@ -244,3 +244,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 80
 The number 42 is the number of laws of cricket.
+
+### Fact of Day 81
+In December 5 of 1492, Christopher Columbus becomes the first known European to set foot on the island of Hispaniola.
