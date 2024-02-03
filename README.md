@@ -247,3 +247,6 @@ The number 42 is the number of laws of cricket.
 
 ### Fact of Day 81
 In December 5 of 1492, Christopher Columbus becomes the first known European to set foot on the island of Hispaniola.
+
+### Fact of Day 82
+The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
