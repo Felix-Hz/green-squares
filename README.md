@@ -268,3 +268,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 88
 The number 42 is the number of kilometers in a marathon.
+
+### Fact of Day 89
+The number 42 is the angle in degrees for which a rainbow appears or the critical angle.
