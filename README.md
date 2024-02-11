@@ -271,3 +271,6 @@ The number 42 is the number of kilometers in a marathon.
 
 ### Fact of Day 89
 The number 42 is the angle in degrees for which a rainbow appears or the critical angle.
+
+### Fact of Day 90
+The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
