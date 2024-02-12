@@ -274,3 +274,6 @@ The number 42 is the angle in degrees for which a rainbow appears or the critica
 
 ### Fact of Day 90
 The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
+
+### Fact of Day 91
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
