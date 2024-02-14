@@ -280,3 +280,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 92
 In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
+
+### Fact of Day 93
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
