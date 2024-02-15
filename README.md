@@ -283,3 +283,6 @@ In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
 
 ### Fact of Day 93
 The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
+
+### Fact of Day 94
+In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
