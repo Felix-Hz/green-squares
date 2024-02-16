@@ -286,3 +286,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 94
 In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
+
+### Fact of Day 95
+The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
