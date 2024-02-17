@@ -289,3 +289,6 @@ In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
 
 ### Fact of Day 95
 The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
+
+### Fact of Day 96
+The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
