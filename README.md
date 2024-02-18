@@ -292,3 +292,6 @@ The number 42 is the answer to the Ultimate Question of Life, the Universe, and 
 
 ### Fact of Day 96
 The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
+
+### Fact of Day 97
+The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
