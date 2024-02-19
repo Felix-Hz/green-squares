@@ -295,3 +295,6 @@ The number 42 is the number of museums in Amsterdam (Netherlands has the highest
 
 ### Fact of Day 97
 The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
+
+### Fact of Day 98
+In year 1492, Martin Behaim constructs the first surviving globe of Earth, the Erdapfel.
