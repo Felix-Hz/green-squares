@@ -298,3 +298,6 @@ The number 42 is the number of spots (or pips, circular patches or pits) on a pa
 
 ### Fact of Day 98
 In year 1492, Martin Behaim constructs the first surviving globe of Earth, the Erdapfel.
+
+### Fact of Day 99
+In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
