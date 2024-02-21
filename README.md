@@ -301,3 +301,6 @@ In year 1492, Martin Behaim constructs the first surviving globe of Earth, the E
 
 ### Fact of Day 99
 In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
+
+### Fact of Day 100
+In April 17 of 1492, the Capitulations of Santa Fe were signed.
