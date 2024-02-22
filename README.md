@@ -304,3 +304,6 @@ In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
 
 ### Fact of Day 100
 In April 17 of 1492, the Capitulations of Santa Fe were signed.
+
+### Fact of Day 101
+In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first voyage across the Atlantic Ocean, intending to reach Asia.
