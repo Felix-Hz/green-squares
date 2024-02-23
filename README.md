@@ -307,3 +307,6 @@ In April 17 of 1492, the Capitulations of Santa Fe were signed.
 
 ### Fact of Day 101
 In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first voyage across the Atlantic Ocean, intending to reach Asia.
+
+### Fact of Day 102
+In October 28 of 1492, Christopher Columbus lands in Cuba.
