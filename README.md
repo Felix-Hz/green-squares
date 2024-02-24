@@ -310,3 +310,6 @@ In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first vo
 
 ### Fact of Day 102
 In October 28 of 1492, Christopher Columbus lands in Cuba.
+
+### Fact of Day 103
+In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
