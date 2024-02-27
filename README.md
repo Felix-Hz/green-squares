@@ -319,3 +319,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 105
 In December 5 of 1492, Christopher Columbus becomes the first known European to set foot on the island of Hispaniola.
+
+### Fact of Day 106
+In November 7 of 1492, the Ensisheim meteorite, a 127-kg meteorite, lands in a wheat field near the village of Ensisheim in Alsace.
