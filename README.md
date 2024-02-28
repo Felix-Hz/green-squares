@@ -322,3 +322,6 @@ In December 5 of 1492, Christopher Columbus becomes the first known European to 
 
 ### Fact of Day 106
 In November 7 of 1492, the Ensisheim meteorite, a 127-kg meteorite, lands in a wheat field near the village of Ensisheim in Alsace.
+
+### Fact of Day 107
+The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
