@@ -325,3 +325,6 @@ In November 7 of 1492, the Ensisheim meteorite, a 127-kg meteorite, lands in a w
 
 ### Fact of Day 107
 The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
+
+### Fact of Day 108
+In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
