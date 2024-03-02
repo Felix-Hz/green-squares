@@ -331,3 +331,6 @@ In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
 
 ### Fact of Day 109
 The number 42 is the number of gallons that one barrel of petroleum holds.
+
+### Fact of Day 110
+The number 42 is the number of gallons that one barrel of petroleum holds.
