@@ -334,3 +334,6 @@ The number 42 is the number of gallons that one barrel of petroleum holds.
 
 ### Fact of Day 110
 The number 42 is the number of gallons that one barrel of petroleum holds.
+
+### Fact of Day 111
+The number 42 is the number of kilometers in a marathon.
