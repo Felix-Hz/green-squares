@@ -1,3 +1,4 @@
 # Well, well, well. We're going to ignore these guys:
-node_modules/
+*.js
 config.*
+node_modules/
