@@ -11,7 +11,7 @@
 */
 
 import axios, { AxiosResponse } from "axios";
-import headers from "./config.js";
+import headers from "./config";
 
 interface NumbersFact {
   text: string;

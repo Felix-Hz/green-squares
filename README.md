@@ -349,3 +349,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 115
 In year 1492, Marsilio Ficino publishes his translation and commentary of Plotinus.
+
+### Fact of Day 116
+The number 42 is the sum of the codes of the letters in the words "BIG BANG" using the encoding A=1, B=2, C=3, etc.
