@@ -355,3 +355,6 @@ The number 42 is the sum of the codes of the letters in the words "BIG BANG" usi
 
 ### Fact of Day 117
 In year 1492, the first arboretum to be designed and planted is the Arboretum Trsteno, near Dubrovnik in Croatia.
+
+### Fact of Day 118
+The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
