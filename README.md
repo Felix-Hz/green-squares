@@ -358,3 +358,6 @@ In year 1492, the first arboretum to be designed and planted is the Arboretum Tr
 
 ### Fact of Day 118
 The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
+
+### Fact of Day 119
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
