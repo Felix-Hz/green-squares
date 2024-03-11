@@ -361,3 +361,6 @@ The number 42 is the number of spots (or pips, circular patches or pits) on a pa
 
 ### Fact of Day 119
 The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
+
+### Fact of Day 120
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
