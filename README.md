@@ -376,3 +376,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 124
 The number 42 is the number of laws of cricket.
+
+### Fact of Day 125
+The number 42 is the number of laws of cricket.
