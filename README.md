@@ -379,3 +379,6 @@ The number 42 is the number of laws of cricket.
 
 ### Fact of Day 125
 The number 42 is the number of laws of cricket.
+
+### Fact of Day 126
+In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
