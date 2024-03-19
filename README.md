@@ -385,3 +385,6 @@ In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
 
 ### Fact of Day 127
 The number 42 is the sum of the codes of the letters in the words "BIG BANG" using the encoding A=1, B=2, C=3, etc.
+
+### Fact of Day 128
+In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling all Jews from Spain unless they convert to Roman Catholicism.
