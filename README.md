@@ -388,3 +388,6 @@ The number 42 is the sum of the codes of the letters in the words "BIG BANG" usi
 
 ### Fact of Day 128
 In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling all Jews from Spain unless they convert to Roman Catholicism.
+
+### Fact of Day 129
+In year 1492, the first arboretum to be designed and planted is the Arboretum Trsteno, near Dubrovnik in Croatia.
