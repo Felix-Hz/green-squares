@@ -397,3 +397,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 131
 In April 17 of 1492, the Capitulations of Santa Fe were signed.
+
+### Fact of Day 132
+In January 23 of 1492, the Pentateuch is first printed.
