@@ -400,3 +400,6 @@ In April 17 of 1492, the Capitulations of Santa Fe were signed.
 
 ### Fact of Day 132
 In January 23 of 1492, the Pentateuch is first printed.
+
+### Fact of Day 133
+In April 17 of 1492, the Capitulations of Santa Fe were signed.
