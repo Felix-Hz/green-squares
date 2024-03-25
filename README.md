@@ -403,3 +403,6 @@ In January 23 of 1492, the Pentateuch is first printed.
 
 ### Fact of Day 133
 In April 17 of 1492, the Capitulations of Santa Fe were signed.
+
+### Fact of Day 134
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
