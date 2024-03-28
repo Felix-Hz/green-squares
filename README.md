@@ -412,3 +412,6 @@ The number 42 is the number of US gallons in a barrel of oil.
 
 ### Fact of Day 136
 The number 42 is the angle in degrees for which a rainbow appears or the critical angle.
+
+### Fact of Day 137
+The number 42 is the number of kilometers in a marathon.
