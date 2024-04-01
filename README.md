@@ -424,3 +424,6 @@ The number 42 is the result given by the web search engines Google, Wolfram Alph
 
 ### Fact of Day 140
 The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
+
+### Fact of Day 141
+In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling all Jews from Spain unless they convert to Roman Catholicism.
