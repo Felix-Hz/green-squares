@@ -427,3 +427,6 @@ The number 42 is the answer to the Ultimate Question of Life, the Universe, and 
 
 ### Fact of Day 141
 In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling all Jews from Spain unless they convert to Roman Catholicism.
+
+### Fact of Day 142
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
