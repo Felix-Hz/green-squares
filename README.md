@@ -433,3 +433,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 143
 The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
+
+### Fact of Day 144
+The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
