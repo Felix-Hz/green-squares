@@ -436,3 +436,6 @@ The number 42 is the number of spots (or pips, circular patches or pits) on a pa
 
 ### Fact of Day 144
 The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
+
+### Fact of Day 145
+The number 42 is the angle in degrees for which a rainbow appears or the critical angle.
