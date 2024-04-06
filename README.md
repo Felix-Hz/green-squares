@@ -439,3 +439,6 @@ The number 42 is the answer to the Ultimate Question of Life, the Universe, and 
 
 ### Fact of Day 145
 The number 42 is the angle in degrees for which a rainbow appears or the critical angle.
+
+### Fact of Day 146
+The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
