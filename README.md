@@ -442,3 +442,6 @@ The number 42 is the angle in degrees for which a rainbow appears or the critica
 
 ### Fact of Day 146
 The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
+
+### Fact of Day 147
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
