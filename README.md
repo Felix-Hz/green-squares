@@ -457,3 +457,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 151
 The number 42 is the number of US gallons in a barrel of oil.
+
+### Fact of Day 152
+In year 1492, Marsilio Ficino publishes his translation and commentary of Plotinus.
