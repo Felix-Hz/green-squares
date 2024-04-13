@@ -460,3 +460,6 @@ The number 42 is the number of US gallons in a barrel of oil.
 
 ### Fact of Day 152
 In year 1492, Marsilio Ficino publishes his translation and commentary of Plotinus.
+
+### Fact of Day 153
+In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first voyage across the Atlantic Ocean, intending to reach Asia.
