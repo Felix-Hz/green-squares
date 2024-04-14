@@ -463,3 +463,6 @@ In year 1492, Marsilio Ficino publishes his translation and commentary of Plotin
 
 ### Fact of Day 153
 In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first voyage across the Atlantic Ocean, intending to reach Asia.
+
+### Fact of Day 154
+The number 42 is the number of laws of cricket.
