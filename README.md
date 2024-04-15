@@ -466,3 +466,6 @@ In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first vo
 
 ### Fact of Day 154
 The number 42 is the number of laws of cricket.
+
+### Fact of Day 155
+In year 1492, Marsilio Ficino publishes his translation and commentary of Plotinus.
