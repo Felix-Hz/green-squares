@@ -469,3 +469,6 @@ The number 42 is the number of laws of cricket.
 
 ### Fact of Day 155
 In year 1492, Marsilio Ficino publishes his translation and commentary of Plotinus.
+
+### Fact of Day 156
+In October 28 of 1492, Christopher Columbus lands in Cuba.
