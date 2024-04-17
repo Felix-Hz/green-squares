@@ -472,3 +472,6 @@ In year 1492, Marsilio Ficino publishes his translation and commentary of Plotin
 
 ### Fact of Day 156
 In October 28 of 1492, Christopher Columbus lands in Cuba.
+
+### Fact of Day 157
+The number 42 is the number of US gallons in a barrel of oil.
