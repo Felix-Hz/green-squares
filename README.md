@@ -475,3 +475,6 @@ In October 28 of 1492, Christopher Columbus lands in Cuba.
 
 ### Fact of Day 157
 The number 42 is the number of US gallons in a barrel of oil.
+
+### Fact of Day 158
+The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
