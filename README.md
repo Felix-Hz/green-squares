@@ -478,3 +478,6 @@ The number 42 is the number of US gallons in a barrel of oil.
 
 ### Fact of Day 158
 The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
+
+### Fact of Day 159
+In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
