@@ -481,3 +481,6 @@ The number 42 is the answer to the Ultimate Question of Life, the Universe, and 
 
 ### Fact of Day 159
 In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
+
+### Fact of Day 160
+In year 1492, Martin Behaim constructs the first surviving globe of Earth, the Erdapfel.
