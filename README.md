@@ -505,3 +505,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 167
 In year 1492, Martin Behaim constructs the first surviving globe of Earth, the Erdapfel.
+
+### Fact of Day 168
+In year 1492, Martin Behaim constructs the first surviving globe of Earth, the Erdapfel.
