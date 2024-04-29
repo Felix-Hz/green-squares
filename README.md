@@ -508,3 +508,6 @@ In year 1492, Martin Behaim constructs the first surviving globe of Earth, the E
 
 ### Fact of Day 168
 In year 1492, Martin Behaim constructs the first surviving globe of Earth, the Erdapfel.
+
+### Fact of Day 169
+The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
