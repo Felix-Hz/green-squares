@@ -517,3 +517,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 171
 The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
+
+### Fact of Day 172
+The number 42 is the number of laws of cricket.
