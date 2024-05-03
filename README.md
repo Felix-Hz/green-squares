@@ -520,3 +520,6 @@ The number 42 is the number of spots (or pips, circular patches or pits) on a pa
 
 ### Fact of Day 172
 The number 42 is the number of laws of cricket.
+
+### Fact of Day 173
+In April 17 of 1492, the Capitulations of Santa Fe were signed.
