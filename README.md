@@ -535,3 +535,6 @@ In year 1492, Marsilio Ficino publishes his translation and commentary of Plotin
 
 ### Fact of Day 177
 The number 42 is the sum of the codes of the letters in the words "BIG BANG" using the encoding A=1, B=2, C=3, etc.
+
+### Fact of Day 178
+In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
