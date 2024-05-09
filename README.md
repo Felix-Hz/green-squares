@@ -538,3 +538,6 @@ The number 42 is the sum of the codes of the letters in the words "BIG BANG" usi
 
 ### Fact of Day 178
 In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
+
+### Fact of Day 179
+In January 6 of 1492, Ferdinand and Isabella enter into Granada.
