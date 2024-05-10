@@ -541,3 +541,6 @@ In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
 
 ### Fact of Day 179
 In January 6 of 1492, Ferdinand and Isabella enter into Granada.
+
+### Fact of Day 180
+The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
