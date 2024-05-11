@@ -544,3 +544,6 @@ In January 6 of 1492, Ferdinand and Isabella enter into Granada.
 
 ### Fact of Day 180
 The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
+
+### Fact of Day 181
+In October 28 of 1492, Christopher Columbus lands in Cuba.
