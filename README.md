@@ -547,3 +547,6 @@ The number 42 is the answer to the Ultimate Question of Life, the Universe, and 
 
 ### Fact of Day 181
 In October 28 of 1492, Christopher Columbus lands in Cuba.
+
+### Fact of Day 182
+In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
