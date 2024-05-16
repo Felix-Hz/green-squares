@@ -559,3 +559,6 @@ In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first vo
 
 ### Fact of Day 185
 In January 23 of 1492, the Pentateuch is first printed.
+
+### Fact of Day 186
+In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling all Jews from Spain unless they convert to Roman Catholicism.
