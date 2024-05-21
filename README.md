@@ -574,3 +574,6 @@ In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling 
 
 ### Fact of Day 190
 The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
+
+### Fact of Day 191
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
