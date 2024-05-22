@@ -577,3 +577,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 191
 The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
+
+### Fact of Day 192
+The number 42 is the sum of the codes of the letters in the words "BIG BANG" using the encoding A=1, B=2, C=3, etc.
