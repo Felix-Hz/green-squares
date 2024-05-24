@@ -583,3 +583,6 @@ The number 42 is the sum of the codes of the letters in the words "BIG BANG" usi
 
 ### Fact of Day 193
 In January 23 of 1492, the Pentateuch is first printed.
+
+### Fact of Day 194
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
