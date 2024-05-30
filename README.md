@@ -601,3 +601,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 199
 In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
+
+### Fact of Day 200
+The number 42 is the number of gallons that one barrel of petroleum holds.
