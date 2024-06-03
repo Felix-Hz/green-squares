@@ -613,3 +613,6 @@ The number 42 is the angle in degrees for which a rainbow appears or the critica
 
 ### Fact of Day 203
 The number 42 is the sum of the codes of the letters in the words "BIG BANG" using the encoding A=1, B=2, C=3, etc.
+
+### Fact of Day 204
+The number 42 is the number of gallons that one barrel of petroleum holds.
