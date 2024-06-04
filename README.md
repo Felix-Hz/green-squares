@@ -616,3 +616,6 @@ The number 42 is the sum of the codes of the letters in the words "BIG BANG" usi
 
 ### Fact of Day 204
 The number 42 is the number of gallons that one barrel of petroleum holds.
+
+### Fact of Day 205
+The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
