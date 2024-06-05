@@ -619,3 +619,6 @@ The number 42 is the number of gallons that one barrel of petroleum holds.
 
 ### Fact of Day 205
 The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
+
+### Fact of Day 206
+In December 5 of 1492, Christopher Columbus becomes the first known European to set foot on the island of Hispaniola.
