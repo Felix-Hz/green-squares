@@ -631,3 +631,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 209
 The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
+
+### Fact of Day 210
+In January 6 of 1492, Ferdinand and Isabella enter into Granada.
