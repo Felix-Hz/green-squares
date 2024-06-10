@@ -634,3 +634,6 @@ The number 42 is the answer to the Ultimate Question of Life, the Universe, and 
 
 ### Fact of Day 210
 In January 6 of 1492, Ferdinand and Isabella enter into Granada.
+
+### Fact of Day 211
+The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
