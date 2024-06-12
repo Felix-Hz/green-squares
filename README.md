@@ -640,3 +640,6 @@ The number 42 is the number of spots (or pips, circular patches or pits) on a pa
 
 ### Fact of Day 212
 The number 42 is the angle in degrees for which a rainbow appears or the critical angle.
+
+### Fact of Day 213
+In October 12 of 1492, Christopher Columbus' expedition makes landfall in the Caribbean and lands on Guanahani, but he believes he has reached the East Indies.
