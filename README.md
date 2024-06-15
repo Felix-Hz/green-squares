@@ -649,3 +649,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 215
 The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
+
+### Fact of Day 216
+In year 1492, Marsilio Ficino publishes his translation and commentary of Plotinus.
