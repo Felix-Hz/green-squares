@@ -670,3 +670,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 222
 In October 12 of 1492, Christopher Columbus' expedition makes landfall in the Caribbean and lands on Guanahani, but he believes he has reached the East Indies.
+
+### Fact of Day 223
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
