@@ -682,3 +682,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 226
 In January 23 of 1492, the Pentateuch is first printed.
+
+### Fact of Day 227
+In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
