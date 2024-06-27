@@ -685,3 +685,6 @@ In January 23 of 1492, the Pentateuch is first printed.
 
 ### Fact of Day 227
 In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
+
+### Fact of Day 228
+The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
