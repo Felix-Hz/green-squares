@@ -688,3 +688,6 @@ In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
 
 ### Fact of Day 228
 The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
+
+### Fact of Day 229
+In November 7 of 1492, the Ensisheim meteorite, a 127-kg meteorite, lands in a wheat field near the village of Ensisheim in Alsace.
