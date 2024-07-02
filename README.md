@@ -700,3 +700,6 @@ In November 7 of 1492, the Ensisheim meteorite, a 127-kg meteorite, lands in a w
 
 ### Fact of Day 232
 In November 7 of 1492, the Ensisheim meteorite, a 127-kg meteorite, lands in a wheat field near the village of Ensisheim in Alsace.
+
+### Fact of Day 233
+In December 5 of 1492, Christopher Columbus becomes the first known European to set foot on the island of Hispaniola.
