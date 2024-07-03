@@ -703,3 +703,6 @@ In November 7 of 1492, the Ensisheim meteorite, a 127-kg meteorite, lands in a w
 
 ### Fact of Day 233
 In December 5 of 1492, Christopher Columbus becomes the first known European to set foot on the island of Hispaniola.
+
+### Fact of Day 234
+The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
