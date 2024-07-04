@@ -706,3 +706,6 @@ In December 5 of 1492, Christopher Columbus becomes the first known European to 
 
 ### Fact of Day 234
 The number 42 is the answer to the Ultimate Question of Life, the Universe, and Everything.
+
+### Fact of Day 235
+The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
