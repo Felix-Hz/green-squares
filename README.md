@@ -709,3 +709,6 @@ The number 42 is the answer to the Ultimate Question of Life, the Universe, and 
 
 ### Fact of Day 235
 The number 42 is the number of spots (or pips, circular patches or pits) on a pair of standard six-sided dice.
+
+### Fact of Day 236
+In November 7 of 1492, the Ensisheim meteorite, a 127-kg meteorite, lands in a wheat field near the village of Ensisheim in Alsace.
