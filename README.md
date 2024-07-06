@@ -712,3 +712,6 @@ The number 42 is the number of spots (or pips, circular patches or pits) on a pa
 
 ### Fact of Day 236
 In November 7 of 1492, the Ensisheim meteorite, a 127-kg meteorite, lands in a wheat field near the village of Ensisheim in Alsace.
+
+### Fact of Day 237
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
