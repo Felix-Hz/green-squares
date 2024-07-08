@@ -718,3 +718,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 238
 In year 1492, the first arboretum to be designed and planted is the Arboretum Trsteno, near Dubrovnik in Croatia.
+
+### Fact of Day 239
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
