@@ -730,3 +730,6 @@ In January 23 of 1492, the Pentateuch is first printed.
 
 ### Fact of Day 242
 In year 1492, Martin Behaim constructs the first surviving globe of Earth, the Erdapfel.
+
+### Fact of Day 243
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
