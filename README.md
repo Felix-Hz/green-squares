@@ -733,3 +733,6 @@ In year 1492, Martin Behaim constructs the first surviving globe of Earth, the E
 
 ### Fact of Day 243
 The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
+
+### Fact of Day 244
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
