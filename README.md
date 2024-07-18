@@ -748,3 +748,6 @@ The number 42 is the result given by the web search engines Google, Wolfram Alph
 
 ### Fact of Day 248
 The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
+
+### Fact of Day 249
+In March 31 of 1492, Ferdinand and Isabella sign the Alhambra decree, expelling all Jews from Spain unless they convert to Roman Catholicism.
