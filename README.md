@@ -760,3 +760,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 252
 In year 1492, Marsilio Ficino publishes his translation and commentary of Plotinus.
+
+### Fact of Day 253
+In year 1492, Marsilio Ficino publishes his translation and commentary of Plotinus.
