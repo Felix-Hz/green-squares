@@ -763,3 +763,6 @@ In year 1492, Marsilio Ficino publishes his translation and commentary of Plotin
 
 ### Fact of Day 253
 In year 1492, Marsilio Ficino publishes his translation and commentary of Plotinus.
+
+### Fact of Day 254
+The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
