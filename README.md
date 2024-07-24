@@ -766,3 +766,6 @@ In year 1492, Marsilio Ficino publishes his translation and commentary of Plotin
 
 ### Fact of Day 254
 The number 42 is the number of museums in Amsterdam (Netherlands has the highest concentration of museums in the world).
+
+### Fact of Day 255
+In July 31 of 1492, the Jews are expelled from Spain; 40,000-200,000 leave.
