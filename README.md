@@ -784,3 +784,6 @@ The number 1729 is the smallest natural number representable in two different wa
 
 ### Fact of Day 260
 The number 42 is the number of gallons that one barrel of petroleum holds.
+
+### Fact of Day 261
+The number 1729 is the smallest natural number representable in two different ways as a sum of two positive cubes, as Ramanujan stated on the spot.
