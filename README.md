@@ -793,3 +793,6 @@ The number 42 is the result given by the web search engines Google, Wolfram Alph
 
 ### Fact of Day 263
 In year 1492, Ermysted's Grammar School, Skipton, North Yorkshire, founded.
+
+### Fact of Day 264
+The number 42 is the number of gallons that one barrel of petroleum holds.
