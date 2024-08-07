@@ -808,3 +808,6 @@ The number 42 is the answer to the Ultimate Question of Life, the Universe, and 
 
 ### Fact of Day 268
 In October 28 of 1492, Christopher Columbus lands in Cuba.
+
+### Fact of Day 269
+In December 5 of 1492, Christopher Columbus becomes the first known European to set foot on the island of Hispaniola.
