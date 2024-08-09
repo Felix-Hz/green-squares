@@ -814,3 +814,6 @@ In December 5 of 1492, Christopher Columbus becomes the first known European to 
 
 ### Fact of Day 270
 In year 1492, the first arboretum to be designed and planted is the Arboretum Trsteno, near Dubrovnik in Croatia.
+
+### Fact of Day 271
+In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first voyage across the Atlantic Ocean, intending to reach Asia.
