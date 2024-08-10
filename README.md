@@ -817,3 +817,6 @@ In year 1492, the first arboretum to be designed and planted is the Arboretum Tr
 
 ### Fact of Day 271
 In August 3 of 1492, Christopher Columbus "sails the ocean blue" on his first voyage across the Atlantic Ocean, intending to reach Asia.
+
+### Fact of Day 272
+The number 42 is the number of US gallons in a barrel of oil.
